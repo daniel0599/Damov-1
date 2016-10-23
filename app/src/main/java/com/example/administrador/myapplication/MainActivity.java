@@ -27,7 +27,9 @@ public class MainActivity extends AppCompatActivity {
         TextView tv2 = (TextView) findViewById(R.id.tv_correo);
         tv2.setText("daniel0599@icloud.com");
         TextView tv3 = (TextView) findViewById(R.id.tv_telefono);
+
         tv3.setText("77981618");
+
         TextView tv4 = (TextView) findViewById(R.id.tv_fecha);
 
         tv4.setText("05/10/99");
